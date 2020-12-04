@@ -29,3 +29,6 @@ Este projeto utiliza duas Design Patterns para suportar integração para novos 
 * Criar um novo módulo em `Writer/SeuNovoAlgoritmo`
 * Criar uma nova classe em `Writer/SeuNovoAlgoritmo/SeuAlgoritmo` que implementa `ABCWriter` de `Writer/`
 * Adicionar seu novo algoritmo em `Writer/ConfigureWriter`
+
+
+Aluno: Gabriel Olivato - RA: 743537
